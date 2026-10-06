@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.png" alt="Python for Data Analysis" width="100%">
+<img src="banner.png" alt="Python for Data Analysis" width="100%">
 
 <br>
 
