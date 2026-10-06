@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.png" alt="Python for Data Analysis" width="100%">
+<img src="banner.png" alt="Python for Data Analysis" width="100%">
 
 <br>
 
@@ -45,7 +45,7 @@ Four lines, one real decision. That is the whole idea of the repo.
 Data analytics is not one step, it is a chain. Raw data gets collected, tidied up, studied, drawn as charts, and only then does it turn into a decision. Python helps at every link.
 
 <div align="center">
-<img src="images/analytics_process.png" alt="The data analytics process" width="95%">
+<img src="analytics_process.png" alt="The data analytics process" width="95%">
 </div>
 
 <br>
@@ -55,7 +55,7 @@ Data analytics is not one step, it is a chain. Raw data gets collected, tidied u
 It reads almost like English, it handles large business datasets without complaint, and it has a library for nearly everything. The picture below shows how the ecosystem is layered. At the centre is the language itself, then the core tools like NumPy, pandas and matplotlib, then specialised ones, then libraries built for particular fields.
 
 <div align="center">
-<img src="images/python_ecosystem.png" alt="The Python ecosystem" width="85%">
+<img src="python_ecosystem.png" alt="The Python ecosystem" width="85%">
 </div>
 
 <br>
@@ -65,7 +65,7 @@ It reads almost like English, it handles large business datasets without complai
 The same few skills apply whether you work in sales, HR, customer service or operations.
 
 <div align="center">
-<img src="images/python_business_areas.png" alt="Python in sales, HR, customer and operations analytics" width="85%">
+<img src="python_business_areas.png" alt="Python in sales, HR, customer and operations analytics" width="85%">
 </div>
 
 <br>
@@ -81,7 +81,7 @@ Take three products and a few numbers. With a handful of lines you can work out 
 | Product C | 150 | 300 | 220 | 12,000 | 26.7% |
 
 <div align="center">
-<img src="images/data_to_decisions.png" alt="Revenue, profit and margin by product" width="95%">
+<img src="data_to_decisions.png" alt="Revenue, profit and margin by product" width="95%">
 </div>
 
 Product A earns the most profit and has the best margin, so it is the one to push. That small piece of reasoning is what analytics is really about.
